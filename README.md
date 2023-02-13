@@ -1,5 +1,3 @@
 # jeferrarezi.github.io
 
-#Build settings
-markdown: kramdown
-theme: architect
+I am a PhD 👩‍🎓 in Genetics and Plant Breeding at ESALQ-USP in Piracicaba, Sao Paulo, Brazil.
